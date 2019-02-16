@@ -182,21 +182,7 @@ h3.heading {
   margin-top: 1.5rem;
 }
 
-/* ========= Clients Section  ========= */
 
-.clients img {
-  width: 100%;
-  border-radius: 50%;
-}
-
-blockquote .svg-inline--fa {
-  color: rgb(1, 21, 109);
-  margin: 1rem;
-}
-
-.clients-hr {
-  border-top: .05rem solid rgb(1, 21, 109);
-}
 
 /* ========= Contact/Footer Section  ========= */
 
@@ -204,7 +190,6 @@ footer {
   background-color: #40474e;
   color: white;
   padding: 2rem 0 2rem;
-  margin-top: 1rem;
 }
 
 footer img {
