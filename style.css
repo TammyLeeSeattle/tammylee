@@ -143,12 +143,12 @@ h3.heading {
 .heading-underline {
   width: 3rem;
   height: .2rem;
-  background-color: rgb(1, 21, 109);
+  background-color: rgb(134, 156, 255);
   margin: 0 auto 2rem; /* to center */
 }
 
 .feature svg.svg-inline--fa {
-  color: rgb(1, 21, 109);
+  color: rgb(134, 156, 255);
 }
 
 .feature h3 {
@@ -169,7 +169,7 @@ h3.heading {
 }
 
 .dark {
-  background-color: rgba(0, 0, 0, 0.75);
+  background-color: rgba(0, 0, 0, 0.85);
   color: white;
   padding: 7rem 2rem;
 }
@@ -180,6 +180,10 @@ h3.heading {
 
 .fixed-background p {
   margin-top: 1.5rem;
+}
+
+.lead a {
+  color: rgb(98, 240, 133);
 }
 
 
