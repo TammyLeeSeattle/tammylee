@@ -137,18 +137,19 @@ h3.heading {
   font-weight: 700;
   text-transform: uppercase;
   margin-bottom: 1.9rem;
+  color: rgb(111, 182, 5);
 }
 
 /* Line under the headers for each section */
 .heading-underline {
   width: 3rem;
   height: .2rem;
-  background-color: rgb(134, 156, 255);
+  background-color: rgb(111, 182, 5);
   margin: 0 auto 2rem; /* to center */
 }
 
 .feature svg.svg-inline--fa {
-  color: rgb(134, 156, 255);
+  color: rgb(134, 255, 188);
 }
 
 .feature h3 {
